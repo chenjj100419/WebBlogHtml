@@ -1,27 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cn">
   <head>
     <meta charset="UTF-8">
     <title>佳杰蜜汁小博客</title>
     <link rel="icon" href="img\minecraft64.ico" type="image/x-icon">
     <link rel="shortcut icon" href="img\minecraft64.ico" type="image/x-icon">
     <style>
-      ul{
-        height: 100px;
-        width:100%;
-        list-style-type: none; //取消无序列表的固定样式
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
       }
-      ul li{
-        float:left;
-        margin: 15px;  //设置三个元素的外间距
-        List-Style:None;
-        text-decoration:none;
-        text-decoration-color: aqua;
-      }
-      a{
-        text-decoration:none;
-        text-decoration-color: aqua;
 
+      li {
+        float: left;
+      }
+
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      li a:hover {
+        background-color: #111;
       }
       a:link{
         text-decoration: none;
@@ -30,11 +36,6 @@
         color:black;
         text-decoration: none;
         font-family: 微软雅黑;
-      }
-      a:hover {
-        color:aqua;
-        text-decoration: none;
-        font-family: 新宋体;
       }
 
 
@@ -46,7 +47,8 @@
   <body background="https://api.tosks.com/acgpicture/">
     <ul>
       <li margin="10px"><img src="img\minecraft64.ico" height="32" width="32"></li>
-      <li><a href="index.html">主页</a> </li>
+      <li><img src="img\logo.png"></li>
+      <li><a class="active" href="index.html">主页</a></li>
       <li><a href="https://space.bilibili.com/397468524" font-family="src\fonts\Minecraft.ttf">BiliBili</a> </li>
       <li><a href="https://live.bilibili.com/22073855">直播间BiliBili</a> </li>
     </ul>
