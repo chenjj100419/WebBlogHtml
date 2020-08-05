@@ -1,0 +1,12 @@
+#serch{
+
+    right: 50px;
+    top: 20px;
+    height: 30px;;
+    width: 250px;
+    border-radius: 5px;
+    font-size: 15px;
+    transition: 0.5s;              //过渡动画时间
+background-color: rgb(175, 200, 223);
+    border: none;
+}
