@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be43daea-8619-4acc-a91d-1aaa5b64ec06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/player.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/server-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/passwd.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/passwd.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -64,11 +66,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\20261\Documents\GitHub\WebBlogHtml\html" />
+      <recent name="C:\Users\20261\Documents\GitHub\WebBlogHtml\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\20261\Documents\GitHub\WebBlogHtml\src\fonts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\20261\Documents\GitHub\WebBlogHtml\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +85,7 @@
       <workItem from="1596529864361" duration="10876000" />
       <workItem from="1596541873976" duration="12664000" />
       <workItem from="1597484566109" duration="4390000" />
-      <workItem from="1597570526452" duration="1545000" />
+      <workItem from="1597570526452" duration="4600000" />
     </task>
     <servers />
   </component>
@@ -110,9 +113,10 @@
       <screen x="0" y="22" width="1536" height="842" />
     </state>
     <state x="573" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.22.1536.842@0.22.1536.842" timestamp="1597571098590" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1596533410260">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="431" y="198" width="672" height="661" key="search.everywhere.popup" timestamp="1597573548928">
+      <screen x="0" y="22" width="1536" height="842" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596533410260" />
+    <state x="431" y="198" width="672" height="661" key="search.everywhere.popup/0.22.1536.842@0.22.1536.842" timestamp="1597573548928" />
   </component>
 </project>
